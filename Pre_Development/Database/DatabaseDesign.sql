@@ -1,3 +1,5 @@
+
+
 CREATE TABLE `users` (
   `userId` varchar(255) PRIMARY KEY,
   `username` varchar(255),
